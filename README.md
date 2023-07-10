@@ -1,6 +1,7 @@
 # Pokepedia Webpage Project
 
 ---
+![Welcome]([https://github.com/username/repository/blob/main/cat.jpg](https://github.com/luisao8/Pokepedia/blob/main/images/Welcome.png) "Welcome")
 
 
 ---
