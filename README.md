@@ -1,33 +1,47 @@
-Pokepedia Webpage Project
+# Pokepedia Webpage Project
 
+---
 
-Table of Contents
+## Table of Contents
+1. [Project Description](#project-description)
+2. [Technologies](#technologies)
+3. [Features](#features)
+4. [Installation Guide](#installation-guide)
+5. [Usage](#usage)
+6. [Contributions](#contributions)
+7. [Contact Information](#contact-information)
 
-Project Description
-Technologies
-Features
-Installation Guide
-Usage
-Contributions
-Contact Information
+---
 
-Project Description
+## Project Description
 This repository contains the codebase for a comprehensive Pokepedia webpage developed using HTML, CSS, and JavaScript. This platform allows users to consult key stats of different Pokemon and visualize their sprites.
 
-Technologies
+---
+
+## Technologies
 This project is developed with the following technologies:
-HTML
-CSS
-JavaScrip
+* HTML
+* CSS
+* JavaScript
 
-Features
-Some of the main features of the Pokepedia webpage include:
-Comprehensive Pokemon database: Access a vast collection of Pokemon, including their stats and key information.
-Visualize Pokemon sprites: Explore the aesthetic variety of Pokemon through their different sprites.
+---
 
-Clone this repository: git clone [repo link]
+## Features
+Some of the main features of our Pokepedia webpage include:
+* Comprehensive Pokemon database: Access a vast collection of Pokemon, including their stats and key information.
+* Visualize Pokemon sprites: Explore the aesthetic variety of Pokemon through their different sprites.
+* User-friendly design: With a clear and intuitive design, finding your favorite Pokemon has never been easier.
 
-Usage
-After cloning the repository, you can open the index.html file in your preferred web browser to start using the Pokepedia webpage.
+---
+
+## Installation Guide
+Please follow these steps to install the project:
+
+1. Clone this repository: `git clone [repo link]`
+
+---
+
+## Usage
+After cloning the repository, you can open the `index.html` file in your preferred web browser to start using the Pokepedia webpage.
 
 
