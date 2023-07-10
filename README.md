@@ -2,6 +2,8 @@
 
 ---
 ![Welcome](https://github.com/luisao8/Pokepedia/blob/main/images/Welcome.png "Welcome.png")
+![Search](https://github.com/luisao8/Pokepedia/blob/main/images/Search.png "Search.png")
+![Stats](https://github.com/luisao8/Pokepedia/blob/main/images/Pokemon%20info.png "Pokemon info.png")
 
 
 
