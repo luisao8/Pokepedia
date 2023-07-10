@@ -1,4 +1,4 @@
-# Pokepedia Webpage Project
+# Pokepedia
 
 ---
 ![Welcome](https://github.com/luisao8/Pokepedia/blob/main/images/Welcome.png "Welcome.png")
